@@ -1,0 +1,1 @@
+int(f"Facrotial is: {factorial(number)}")

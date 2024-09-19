@@ -1,0 +1,5 @@
+itr = iter(mydic)
+# print(next(itr))
+# print(next(itr))
+# print(next(itr))
+# print(next(itr))

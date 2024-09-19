@@ -1,0 +1,11 @@
+make python exe
+pythonw  file name :- water reminder
+pyinstaller filename:- shutdown pc
+
+requirement.txt file:- for python module version
+	pip freeze > requirement.txt
+
+make virtual environment
+pip install vertualenv
+virtualenv filename
+cd >filename>script>activate
